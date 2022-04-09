@@ -1,7 +1,3 @@
----
-title: トップページ
----
-
 # Test page
 このページはmarkdownで書かれています
 

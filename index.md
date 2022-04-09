@@ -1,5 +1,6 @@
 ---
 title: トップページ
+layout: default
 ---
 
 # Test page
